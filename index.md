@@ -6,8 +6,6 @@ layout: default
 ---
 <div>
   <a href="https://twitter.com/Dr_rami?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Dr_rami</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  <script src="https://apis.google.com/js/platform.js"></script>
-
   <div class="g-ytsubscribe" data-channel="Alshafi" data-layout="default" data-count="default"></div>
 </div>
 <p>
